@@ -1,0 +1,25 @@
+{
+  "name": "basic-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rycamosun/basic-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rycamosun/basic-website/issues"
+  },
+  "homepage": "https://github.com/rycamosun/basic-website#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "express": "^5.2.1"
+  }
+}
